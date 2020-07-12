@@ -37,9 +37,9 @@
 35,1245 Torrence Ave,Calumet City,60409,Calumet City,41.614188,-87.54638
 36,13348 Cicero Ave,Crestwood,60418,,,
 37,17575 Halsted Ave,Homewood,60430,Homewood,41.556734000000006,-87.66464
-38,822 Ridge Rd.,Munster,46321,,,
-39,2510 Burr St,Gary,46406,,,
-40,69 Us Highway 41,Schererville,46375,,,
+38,822 Ridge Rd.,Munster,46321,Munster,41.551457,-87.50143
+39,2510 Burr St,Gary,46406,Gary,41.589135,-87.40961999999999
+40,69 Us Highway 41,Schererville,46375,Schererville,41.492084999999996,-87.4519
 41,4265 N Harlem Ave,Norridge,60706,Harwood Heights,41.96418,-87.81685999999999
 42,5700 W Touhy Ave,Niles,60714,Niles,42.032379,-87.81563
 43,9402 Joliet Rd,Hodgkins,60525,La Grange,41.788536,-87.87605
@@ -57,10 +57,10 @@
 55,1825 Tower Road,Glenview,60026,Glenview Nas,41.811929,-87.68732
 56,460 W Irving Park Rd,Bensenville,60106,Bensenville,41.956478999999995,-87.95116999999999
 57,905 E Rand Rd,Mount Prospect,60056,Mount Prospect,42.065427,-87.93621
-58,3001 Grant St,Gary,46408,,,
-59,1577 Us Highway 41,Schererville,46375,,,
+58,3001 Grant St,Gary,46408,Gary,41.542536,-87.3581
+59,1577 Us Highway 41,Schererville,46375,Schererville,41.492084999999996,-87.4519
 60,4811 211Th St,Matteson,60443,Matteson,41.503468,-87.73695
-61,9939 Wicker Ave.,Saint John,46373,,,
+61,9939 Wicker Ave.,Saint John,46373,Saint John,41.44862,-87.47404
 62,75 W North Ave,Northlake,60164,Melrose Park,41.91823,-87.89627
 63,26 E First St,Hinsdale,60521,Hinsdale,41.772915000000005,-87.92996
 64,7450 Kingery Hwy,Willowbrook,60527,Hinsdale,41.839679,-88.088716
