@@ -1,0 +1,75 @@
+,street,city,zip_code,City,Latitude,Longitude
+0,36 S State St,Chicago,60603,Chicago,41.880446,-87.63014
+1,222 Merchandise Mart Plz,Chicago,60654,Chicago,41.888627,-87.63538
+2,301 W Washington St,Chicago,60606,Chicago,41.882582,-87.6376
+3,209 S Lasalle St,Chicago,60604,Chicago,41.877589,-87.62818
+4,840 N Michigan Ave,Chicago,60611,Chicago,41.904666999999996,-87.62504
+5,500 W Madison St,Chicago,60661,Chicago,41.882082000000004,-87.64461
+6,1004 S Canal St,Chicago,60607,Chicago,41.875882,-87.65114
+7,1300 W. Madison St,Chicago,60607,Chicago,41.875882,-87.65114
+8,810 W North Ave,Chicago,60622,Chicago,41.900332,-87.66927
+9,1237 N Milwaukee Ave,Chicago,60622,Chicago,41.900332,-87.66927
+10,1652 N Milwaukee Av,Chicago,60647,Chicago,41.921126,-87.70085
+11,747 W 31St St,Chicago,60616,Chicago,41.8474,-87.63126
+12,3019 N Clark St,Chicago,60657,Chicago,41.940832,-87.65852
+13,2707 N Elston Ave,Chicago,60647,Chicago,41.921126,-87.70085
+14,3701 N. Halsted Street,Chicago,60613,Chicago,41.953256,-87.6629
+15,1654 W. Roscoe Street,Chicago,60657,Chicago,41.940832,-87.65852
+16,3621 N Western Ave,Chicago,60618,Chicago,41.945681,-87.7048
+17,1531 E 53Rd St,Chicago,60615,Chicago,41.801525,-87.60215
+18,4752 N. Lincoln Ave.,Chicago,60625,Chicago,41.971614,-87.70255999999999
+19,5314 N Clark St,Chicago,60640,Chicago,41.973181,-87.6665
+20,4183 W Irving Park Road,Chicago,60641,Chicago,41.946431,-87.74576
+21,4000 N Cicero Ave,Chicago,60641,Chicago,41.946431,-87.74576
+22,6355 N Broadway St,Chicago,60660,Chicago,41.990631,-87.6667
+23,6451 W Diversey Ave,Chicago,60707,Elmwood Park,41.922681,-87.80805
+24,7261 Lake St,River Forest,60305,River Forest,41.893031,-87.81718000000001
+25,120 W 87Th St,Chicago,60620,Chicago,41.740483000000005,-87.65281999999999
+26,7160 Cermak Rd,Berwyn,60402,Berwyn,41.836981,-87.79095
+27,7854 S Cicero Ave,Burbank,60459,Burbank,41.744082,-87.77022
+28,2601A W 95Th St,Evergreen Park,60805,Evergreen Park,41.719933000000005,-87.70249
+29,9560 S Western Ave,Evergreen Park,60805,Evergreen Park,41.719933000000005,-87.70249
+30,9621 S Cicero,Oak Lawn,60453,Oak Lawn,41.715082,-87.7546
+31,5212 N Milwaukee Ave,Chicago,60630,Chicago,41.971044,-87.75869
+32,3325 W Touhy Ave,Lincolnwood,60712,Lincolnwood,42.005331,-87.73545
+33,1706 Maple Ave,Evanston,60201,Evanston,42.056391,-87.69684000000001
+34,290 Chicago Ridge Mall Space C18,Chicago Ridge,60415,Chicago Ridge,41.702482,-87.77869
+35,1245 Torrence Ave,Calumet City,60409,Calumet City,41.614188,-87.54638
+36,13348 Cicero Ave,Crestwood,60418,,,
+37,17575 Halsted Ave,Homewood,60430,Homewood,41.556734000000006,-87.66464
+38,822 Ridge Rd.,Munster,46321,,,
+39,2510 Burr St,Gary,46406,,,
+40,69 Us Highway 41,Schererville,46375,,,
+41,4265 N Harlem Ave,Norridge,60706,Harwood Heights,41.96418,-87.81685999999999
+42,5700 W Touhy Ave,Niles,60714,Niles,42.032379,-87.81563
+43,9402 Joliet Rd,Hodgkins,60525,La Grange,41.788536,-87.87605
+44,5 S La Grange Rd,La Grange,60525,La Grange,41.788536,-87.87605
+45,1525 W North Ave,Melrose Park,60160,Melrose Park,41.899879999999996,-87.85978
+46,6340 N Northwest Hwy,Chicago,60631,Chicago,41.99623,-87.81090999999999
+47,9328 Skokie Blvd,Skokie,60077,Skokie,42.033313,-87.75764000000001
+48,2516 Green Bay Rd,Evanston,60201,Evanston,42.056391,-87.69684000000001
+49,7130 Dempster St,Morton Grove,60053,Morton Grove,42.041999,-87.78882
+50,136 N Northwest Highway,Park Ridge,60068,Park Ridge,42.011829999999996,-87.84158000000001
+51,7101 183Rd St,Tinley Park,60477,Tinley Park,41.5738,-87.80389
+52,9264 W 159Th St,Orland Park,60462,Orland Park,41.623532,-87.83542
+53,9635 N Milwaukee Ave,Niles,60714,Niles,42.032379,-87.81563
+54,1223 E Oakton Street,Des Plaines,60018,Des Plaines,42.008429,-87.89234
+55,1825 Tower Road,Glenview,60026,Glenview Nas,41.811929,-87.68732
+56,460 W Irving Park Rd,Bensenville,60106,Bensenville,41.956478999999995,-87.95116999999999
+57,905 E Rand Rd,Mount Prospect,60056,Mount Prospect,42.065427,-87.93621
+58,3001 Grant St,Gary,46408,,,
+59,1577 Us Highway 41,Schererville,46375,,,
+60,4811 211Th St,Matteson,60443,Matteson,41.503468,-87.73695
+61,9939 Wicker Ave.,Saint John,46373,,,
+62,75 W North Ave,Northlake,60164,Melrose Park,41.91823,-87.89627
+63,26 E First St,Hinsdale,60521,Hinsdale,41.772915000000005,-87.92996
+64,7450 Kingery Hwy,Willowbrook,60527,Hinsdale,41.839679,-88.088716
+65,14124 South Bell Road,Homer Glen,60491,,,
+66,19200 S La Grange Rd,Mokena,60448,Mokena,41.536782,-87.88582
+67,560 W St Charles Rd,Elmhurst,60126,Elmhurst,41.89103,-87.94181
+68,170 Biesterfield Rd,Elk Grove Village,60007,Elk Grove Village,42.005978000000006,-87.99847
+69,1600 W Lake St,Addison,60101,Addison,41.931573,-88.00222
+70,1693 W. Algonquin Road,Rolling Meadows,60008,Rolling Meadows,42.07506,-88.02508
+71,920 N Elmhurst Rd,Mount Prospect,60056,Mount Prospect,42.065427,-87.93621
+72,5 Woodfield Mall,Schaumburg,60173,Schaumburg,42.051927,-88.04814
+73,20930 S Lagrange Rd B,Frankfort,60423,Frankfort,41.501178,-87.83875
